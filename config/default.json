@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://iammaniteja:iammaniteja@geeksgram.2s2jh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://iammaniteja:iammaniteja@geeksgram.2s2jh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwttoken": "myjwttoken"
 }
